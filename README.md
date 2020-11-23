@@ -1,2 +1,2 @@
 # source-phisnowns
-ngrok sources for phisnowns
+ngrok resources for phisnowns
